@@ -771,7 +771,7 @@ html {
 html,
 body {
   height: 100%;
-  font-family: var(--font-family-sans-serif);
+  font-family: var(--sec-text-color)(--font-family-sans-serif);
   overflow-wrap: break-word;
 }
 body {
@@ -840,8 +840,8 @@ i.iconfont {
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
   --post-heading-color: #1a202c;
-  --post-link-color: #0366d6;
-  --link-hover-color: #30a9de;
+  --post-link-color: #313131;
+  --link-hover-color: #af333e;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
   --navbar-bg-color: #313131;
@@ -859,17 +859,17 @@ i.iconfont {
     --color-mode: "dark";
   }
   :root:not([data-user-color-scheme]) {
-    --body-bg-color: #181c27;
-    --board-bg-color: #252d38;
+    --body-bg-color: #313131;
+    --board-bg-color: #444444;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
     --post-heading-color: #c4c6c9;
-    --post-link-color: #1589e9;
-    --link-hover-color: #30a9de;
+    --post-link-color: #313131;
+    --link-hover-color: #af333e;
     --link-hover-bg-color: #364151;
     --line-color: #435266;
-    --navbar-bg-color: #333333;
+    --navbar-bg-color: #313131;
     --navbar-text-color: #d0d0d0;
     --subtitle-color: #d0d0d0;
     --scrollbar-color: #687582;
@@ -894,17 +894,17 @@ i.iconfont {
   }
 }
 [data-user-color-scheme="dark"] {
-  --body-bg-color: #181c27;
-  --board-bg-color: #252d38;
+  --body-bg-color: #313131;
+  --board-bg-color: #444444;
   --text-color: #c4c6c9;
   --sec-text-color: #a7a9ad;
   --post-text-color: #c4c6c9;
   --post-heading-color: #c4c6c9;
-  --post-link-color: #1589e9;
-  --link-hover-color: #30a9de;
+  --post-link-color: #313131;
+  --link-hover-color: #af333e;
   --link-hover-bg-color: #364151;
   --line-color: #435266;
-  --navbar-bg-color: #333333;
+  --navbar-bg-color: #313131;
   --navbar-text-color: #d0d0d0;
   --subtitle-color: #d0d0d0;
   --scrollbar-color: #687582;
@@ -1319,7 +1319,7 @@ figure.highlight td.code > pre {
 .markdown-body {
   font-size: 1rem;
   line-height: 1.6;
-  font-family: var(--font-family-sans-serif);
+  font-family: var(--sec-text-color)(--font-family-sans-serif);
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }
