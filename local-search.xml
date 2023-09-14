@@ -4,45 +4,11 @@
   
   
   <entry>
-    <title>宝藏软件汇总</title>
-    <link href="/posts/20230610-my-software-summary/"/>
-    <url>/posts/20230610-my-software-summary/</url>
+    <title>我的音乐列表</title>
+    <link href="/posts/20230914-my-playlist/"/>
+    <url>/posts/20230914-my-playlist/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="宝藏软件汇总"><a href="#宝藏软件汇总" class="headerlink" title="宝藏软件汇总"></a>宝藏软件汇总</h1><ol><li>知识记录：Roam Research、Notion、Notability、<del>【Evernote】</del></li><li>碎片化记录：Apple Notes、Drafts</li><li>稍后读：Readwise Reader</li><li>任务管理：Things 3</li><li>截图和贴图：Snipaste、Cleanshot X</li><li>剪辑和动画：FinalCut Pro、AE、<del>【剪映】</del></li><li>思维导图：MindNode、<del>【XMIND】</del></li><li>PDF编辑：PDF Expert</li><li>软件卸载：App Cleaner &amp; Uninstaller</li><li>电脑清理：CleanMyMac X、Tencent Lemon</li><li>文字编辑和文章书写：Typora、IA Writer</li><li>翻译软件：<em>（暂时是网易有道，没有特别满意的）</em></li><li>社交软件：微信、微博、小红书、即刻、Twitter、ins、Facebook</li><li>播客：小宇宙、喜马拉雅</li><li>学习听书：得到、樊登读书（现:帆书）</li><li>电子书：kindle、微信读书</li><li>代码编写：IDEA、VScode</li><li>数据库：Navicat Premium、RDM、MongoDB</li><li>终端：iTerm2</li><li>原型与设计：Axure、Figma、<del>【Sketch】</del></li><li>模版作图：Canva、稿定、（创客帖、图怪兽）</li><li>音乐：Spotify、LX Music、网易云音乐</li><li>协同工作：Slack、飞书</li><li>云盘：Google Drive、坚果云、百度网盘、<del>Dropbox</del></li><li>电脑端番茄钟：Smart Countdown Timer</li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>iPhone宝藏软件汇总</title>
-    <link href="/posts/20230610-phone-software-summary/"/>
-    <url>/posts/20230610-phone-software-summary/</url>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iPhone宝藏软件汇总"><a href="#iPhone宝藏软件汇总" class="headerlink" title="iPhone宝藏软件汇总"></a>iPhone宝藏软件汇总</h1><p>待定。</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>tag1</tag>
-      
-      <tag>tag2</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>如何实现同一台电脑当中的两个文件夹同步？</title>
-    <link href="/posts/20230914-folder-synchronization-in-one-computer/"/>
-    <url>/posts/20230914-folder-synchronization-in-one-computer/</url>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿<br>萨顶顶：左手指月<br>张学友：烦恼歌<br>李建：月半弯<br>汉堡黄：滥俗的歌<br>王贰浪：小镇英雄青年<br>孙耀威：爱的故事<br>唐伯虎Annie：青丝<br>世间美好与你环环相扣<br>球球：0919、宠爱吖<br>董小姐日语版<br>GALA：追梦赤子心<br>萌萌哒天团：动心<br>温柔乡<br>去你的撩妹即正义<br>陈琳：爱就爱了<br>草蜢：失恋阵线联盟<br>夏天：小宝贝<br>罗大佑：恋曲1990<br>谢雨欣：仰望<br>周深：胆小鬼<br>陈百强：偏偏喜欢你<br>蔡卓妍：明明<br>乌达木：梦中的额吉<br>叶倩文：潇洒走一回<br>谢金燕：男欢女爱<br>洪金宝：爷爷的情书<br>宇多田光：prisoner of Love<br>王若琳：Lomon tree</p>]]></content>
     
     
     
@@ -80,11 +46,45 @@
   
   
   <entry>
-    <title>我的音乐列表</title>
-    <link href="/posts/20230914-my-playlist/"/>
-    <url>/posts/20230914-my-playlist/</url>
+    <title>如何实现同一台电脑当中的两个文件夹同步？</title>
+    <link href="/posts/20230914-folder-synchronization-in-one-computer/"/>
+    <url>/posts/20230914-folder-synchronization-in-one-computer/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿<br>萨顶顶：左手指月<br>张学友：烦恼歌<br>李建：月半弯<br>汉堡黄：滥俗的歌<br>王贰浪：小镇英雄青年<br>孙耀威：爱的故事<br>唐伯虎Annie：青丝<br>世间美好与你环环相扣<br>球球：0919、宠爱吖<br>董小姐日语版<br>GALA：追梦赤子心<br>萌萌哒天团：动心<br>温柔乡<br>去你的撩妹即正义<br>陈琳：爱就爱了<br>草蜢：失恋阵线联盟<br>夏天：小宝贝<br>罗大佑：恋曲1990<br>谢雨欣：仰望<br>周深：胆小鬼<br>陈百强：偏偏喜欢你<br>蔡卓妍：明明<br>乌达木：梦中的额吉<br>叶倩文：潇洒走一回<br>谢金燕：男欢女爱<br>洪金宝：爷爷的情书<br>宇多田光：prisoner of Love<br>王若琳：Lomon tree</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>tag1</tag>
+      
+      <tag>tag2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>宝藏软件汇总</title>
+    <link href="/posts/20230610-my-software-summary/"/>
+    <url>/posts/20230610-my-software-summary/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="宝藏软件汇总"><a href="#宝藏软件汇总" class="headerlink" title="宝藏软件汇总"></a>宝藏软件汇总</h1><ol><li>知识记录：Roam Research、Notion、Notability、<del>【Evernote】</del></li><li>碎片化记录：Apple Notes、Drafts</li><li>稍后读：Readwise Reader</li><li>任务管理：Things 3</li><li>截图和贴图：Snipaste、Cleanshot X</li><li>剪辑和动画：FinalCut Pro、AE、<del>【剪映】</del></li><li>思维导图：MindNode、<del>【XMIND】</del></li><li>PDF编辑：PDF Expert</li><li>软件卸载：App Cleaner &amp; Uninstaller</li><li>电脑清理：CleanMyMac X、Tencent Lemon</li><li>文字编辑和文章书写：Typora、IA Writer</li><li>翻译软件：<em>（暂时是网易有道，没有特别满意的）</em></li><li>社交软件：微信、微博、小红书、即刻、Twitter、ins、Facebook</li><li>播客：小宇宙、喜马拉雅</li><li>学习听书：得到、樊登读书（现:帆书）</li><li>电子书：kindle、微信读书</li><li>代码编写：IDEA、VScode</li><li>数据库：Navicat Premium、RDM、MongoDB</li><li>终端：iTerm2</li><li>原型与设计：Axure、Figma、<del>【Sketch】</del></li><li>模版作图：Canva、稿定、（创客帖、图怪兽）</li><li>音乐：Spotify、LX Music、网易云音乐</li><li>协同工作：Slack、飞书</li><li>云盘：Google Drive、坚果云、百度网盘、<del>Dropbox</del></li><li>电脑端番茄钟：Smart Countdown Timer</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>iPhone宝藏软件汇总</title>
+    <link href="/posts/20230610-phone-software-summary/"/>
+    <url>/posts/20230610-phone-software-summary/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iPhone宝藏软件汇总"><a href="#iPhone宝藏软件汇总" class="headerlink" title="iPhone宝藏软件汇总"></a>iPhone宝藏软件汇总</h1><p>待定。</p>]]></content>
     
     
     
