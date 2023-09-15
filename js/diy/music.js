@@ -20,5 +20,11 @@ const ap = new APlayer({
         url: 'https://cdn.jsdelivr.net/gh/baduyifei/tuchuang/zuoshouzhiyue.mp3',
         cover: 'https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202309150523977.png', 
     },
+    {
+        name: "小镇英雄青年",
+        artist: '王贰浪',
+        url: 'https://cdn.jsdelivr.net/gh/baduyifei/tuchuang/xiaozhenqingnian.mp3',
+        cover: 'https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202309150523977.png', 
+    },
     ]
 });
